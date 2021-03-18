@@ -1,0 +1,6 @@
+package com.gamuda.user_tracker
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
